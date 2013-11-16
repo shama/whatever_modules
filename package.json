@@ -1,0 +1,11 @@
+{
+  "name": "whatever_modules",
+  "version": "0.1.0",
+  "description": "node_modules?!? pssh whatever_modules",
+  "main": "index.js",
+  "bin": {
+    "whatever_modules": "bin/whatever_modules"
+  },
+  "author": "Kyle Robinson Young <kyle@dontkry.com> (http://dontkry.com)",
+  "license": "MIT"
+}
