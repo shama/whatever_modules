@@ -1,6 +1,6 @@
 {
   "name": "whatever_modules",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "node_modules?!? pssh whatever_modules",
   "main": "index.js",
   "bin": {
